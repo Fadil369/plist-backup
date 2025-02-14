@@ -1,0 +1,3 @@
+*.lock
+*com.apple.finder.plist
+*com.apple.dock.plist
